@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-center">Crud simple</h1>
+      <h1 className="text-center">To Do</h1>
       <hr />
       <div className="row">
         <div className="col-8">
