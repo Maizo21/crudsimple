@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crudsimple/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/crudsimple/static/js/main.238d78c5.chunk.js",
+    "main.js.map": "/crudsimple/static/js/main.238d78c5.chunk.js.map",
+    "runtime-main.js": "/crudsimple/static/js/runtime-main.4ee5a386.js",
+    "runtime-main.js.map": "/crudsimple/static/js/runtime-main.4ee5a386.js.map",
+    "static/js/2.b5d109cc.chunk.js": "/crudsimple/static/js/2.b5d109cc.chunk.js",
+    "static/js/2.b5d109cc.chunk.js.map": "/crudsimple/static/js/2.b5d109cc.chunk.js.map",
+    "index.html": "/crudsimple/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/crudsimple/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b5d109cc.chunk.js.LICENSE.txt": "/crudsimple/static/js/2.b5d109cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee5a386.js",
+    "static/js/2.b5d109cc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.238d78c5.chunk.js"
+  ]
+}
